@@ -1,0 +1,60 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black
+}
+
+.head{
+    border: 1px solid black;
+    width: 100vw;
+    height: 70px;
+    background-color: black;
+   
+    
+}
+
+.head input{
+    margin:1.4rem;
+}
+
+input{
+    font-size: 1.2rem;
+    padding: .2rem;
+    border-radius: .3rem ;
+    border: #ffffff;
+    padding-left: 1rem;
+}
+
+.head i{
+    margin-left: 2rem;
+    color: #ffffff;
+    font-size: 1.3rem;
+}
+
+
+img{
+    height: 300px;
+}
+
+
+span{
+    font-weight: bold;
+}
+
+.book{
+    display:flex;
+    border: 1px solid white;
+}
+
+.bio{
+
+    margin: 5rem .2rem;
+}
+
+
+
+.book a{
+    color: #ffffff;
+    text-decoration: none;
+}
